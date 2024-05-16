@@ -1,0 +1,8 @@
+Score,Model
+0.921875,Random Forest
+0.8958333333333334,Xgboost
+0.8854166666666666,Logistic Regression
+0.8828125,Decision Tree
+0.875,SVC
+0.8671875,KNN
+0.8359375,GaussianNB
